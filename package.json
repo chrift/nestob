@@ -1,0 +1,17 @@
+{
+  "name": "nestob",
+  "version": "0.0.1",
+  "description": "Helper to set nested properties of objects",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nesting",
+    "objects"
+  ],
+  "author": "Chris Cheshire",
+  "license": "ISC"
+}
