@@ -1,6 +1,6 @@
 {
   "name": "nestob",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Helper to set nested properties of objects",
   "main": "index.js",
   "dependencies": {},
@@ -13,5 +13,13 @@
     "objects"
   ],
   "author": "Chris Cheshire",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chrift/nestob.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chrift/nestob/issues"
+  },
+  "homepage": "https://github.com/chrift/nestob"
 }
