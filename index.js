@@ -9,6 +9,11 @@ var e = {};
 
 HELLO THIS IS TOTES GONNA BREAK HAHAHAHAHAHA
 
+function helloThere () {
+	return
+	'cheese and biscuits'
+}
+
 /**
  *
  * @param path A full stop-ped separated string OR array containing keys of the nested value you want to retrieve
